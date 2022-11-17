@@ -1,4 +1,4 @@
-class Line extends react.exports.Component {
+class Chart extends exports.Component {
   render() {
     return /* @__PURE__ */ jsx(Plot, {
       data: [{
